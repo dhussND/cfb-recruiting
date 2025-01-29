@@ -1,0 +1,183 @@
+Tennessee: 154
+Texas A&M: 148
+Florida: 145
+Miami: 140
+Michigan: 139
+Alabama: 133
+Georgia: 131
+USC: 130
+Ole Miss: 126
+Auburn: 125
+Penn State: 121
+Oregon: 115
+Florida State: 113
+LSU: 99
+Colorado: 98
+Louisville: 97
+Michigan State: 95
+Georgia Tech: 88
+Texas: 87
+South Carolina: 87
+Ohio State: 86
+Arkansas: 81
+Missouri: 81
+Nebraska: 80
+Notre Dame: 80
+Kentucky: 80
+Duke: 78
+Oklahoma: 78
+West Virginia: 77
+UCF: 73
+Pittsburgh: 73
+Mississippi State: 67
+Indiana: 65
+Washington: 62
+Boston College: 61
+Wisconsin: 59
+Maryland: 58
+Cincinnati: 55
+Kansas: 54
+California: 52
+Vanderbilt: 51
+Purdue: 50
+USF: 49
+Virginia Tech: 49
+Minnesota: 49
+Utah: 48
+TCU: 48
+Baylor: 47
+SMU: 47
+Illinois: 47
+Toledo: 47
+Clemson: 46
+Syracuse: 45
+Liberty: 45
+Houston: 43
+Memphis: 43
+UCLA: 42
+Arizona State: 41
+Marshall: 41
+NC State: 40
+Charlotte: 40
+Texas Tech: 37
+UTSA: 36
+Arizona: 36
+UNLV: 36
+Stanford: 35
+Oregon State: 33
+Rutgers: 31
+Oklahoma State: 30
+Tulane: 30
+North Carolina: 30
+East Carolina: 29
+Iowa: 28
+Jackson State: 28
+Kansas State: 28
+Florida A&M: 28
+Florida Atlantic: 28
+Arkansas State: 27
+Iowa State: 26
+UAB: 26
+Washington State: 25
+Texas State: 24
+UConn: 24
+Georgia Southern: 24
+Troy: 23
+Coastal Carolina: 23
+Akron: 22
+Western Kentucky: 22
+BYU: 21
+San Diego State: 21
+North Texas: 19
+Grambling State: 18
+Tulsa: 18
+Western Michigan: 18
+Nevada: 18
+UTEP: 17
+Temple: 17
+Wake Forest: 16
+Appalachian State: 16
+Georgia State: 16
+Miami (OH): 16
+Virginia: 16
+James Madison: 16
+Colorado State: 15
+UMass: 15
+Northwestern: 14
+Kent State: 13
+Louisiana Tech: 12
+San Jose State: 12
+Buffalo: 12
+Ball State: 11
+Bowling Green: 11
+Eastern Kentucky: 11
+Alabama State: 10
+Austin Peay: 10
+Central Michigan: 10
+Middle Tennessee State: 10
+Louisiana: 9
+Ohio: 9
+Southern Miss: 8
+Old Dominion: 8
+Boise State: 8
+FIU: 7
+Louisiana-Monroe: 7
+Howard: 6
+Hawaii: 6
+Sam Houston State: 5
+Fresno State: 5
+Jacksonville State: 5
+Utah State: 5
+Tennessee State: 5
+Bethune-Cookman: 5
+South Alabama: 4
+Eastern Michigan: 4
+Houston Christian: 4
+Campbell: 4
+Alabama A&M: 4
+Alcorn State: 3
+Yale: 3
+Incarnate Word: 3
+New Mexico State: 3
+UT Martin: 3
+Texas Southern: 3
+North Carolina A&T: 3
+Idaho: 2
+Prairie View A&M: 2
+Navy: 2
+Harvard: 2
+Pennsylvania: 2
+Youngstown State: 2
+Northern Illinois: 2
+Towson: 2
+New Mexico: 2
+Army: 2
+Central Arkansas: 2
+Utah Tech: 2
+Delaware: 2
+Elon: 2
+Cornell: 2
+Northern Arizona: 2
+Sacramento State: 2
+Mississippi Valley State: 2
+Morgan State: 2
+Princeton: 2
+Norfolk State: 2
+Southern Illinois: 1
+South Dakota: 1
+LIU: 1
+Montana State: 1
+Bryant: 1
+Rhode Island: 1
+Dartmouth: 1
+Portland State: 1
+Nicholls State: 1
+Rice: 1
+Wyoming: 1
+Air Force: 1
+Cal Poly: 1
+Tennessee Tech: 1
+Delaware State: 1
+Duquesne: 1
+Southeast Missouri State: 1
+Samford: 1
